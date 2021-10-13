@@ -2,11 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import SpotifyLogin from './SpotifyLogin';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <SpotifyLogin />
   </React.StrictMode>,
   document.getElementById('root')
 );
