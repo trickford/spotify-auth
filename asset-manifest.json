@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spotify-test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/spotify-test/static/js/main.720d3d05.chunk.js",
+    "main.js.map": "/spotify-test/static/js/main.720d3d05.chunk.js.map",
+    "runtime-main.js": "/spotify-test/static/js/runtime-main.ebb161ff.js",
+    "runtime-main.js.map": "/spotify-test/static/js/runtime-main.ebb161ff.js.map",
+    "static/css/2.7c510740.chunk.css": "/spotify-test/static/css/2.7c510740.chunk.css",
+    "static/js/2.6f1c0277.chunk.js": "/spotify-test/static/js/2.6f1c0277.chunk.js",
+    "static/js/2.6f1c0277.chunk.js.map": "/spotify-test/static/js/2.6f1c0277.chunk.js.map",
+    "static/js/3.c2d4baa8.chunk.js": "/spotify-test/static/js/3.c2d4baa8.chunk.js",
+    "static/js/3.c2d4baa8.chunk.js.map": "/spotify-test/static/js/3.c2d4baa8.chunk.js.map",
+    "index.html": "/spotify-test/index.html",
+    "static/css/2.7c510740.chunk.css.map": "/spotify-test/static/css/2.7c510740.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/spotify-test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6f1c0277.chunk.js.LICENSE.txt": "/spotify-test/static/js/2.6f1c0277.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/spotify-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb161ff.js",
+    "static/css/2.7c510740.chunk.css",
+    "static/js/2.6f1c0277.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.720d3d05.chunk.js"
+  ]
+}
