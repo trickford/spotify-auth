@@ -51,7 +51,7 @@ const App = () => {
       ) : (
         // Display the login page
         <SpotifyAuth
-          redirectUri="http://localhost:3000/callback"
+          redirectUri="https://trickford.github.io/spotify-auth/"
           clientID="5b04f1e10c3a414799232a16932dba47"
           scopes={[Scopes.userReadPrivate, "user-read-email"]} // either style will work
           onAccessToken={(token) => setToken(token)}
