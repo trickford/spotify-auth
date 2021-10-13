@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spotify-auth/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/spotify-auth/static/js/main.720d3d05.chunk.js",
-    "main.js.map": "/spotify-auth/static/js/main.720d3d05.chunk.js.map",
+    "main.js": "/spotify-auth/static/js/main.40395d3a.chunk.js",
+    "main.js.map": "/spotify-auth/static/js/main.40395d3a.chunk.js.map",
     "runtime-main.js": "/spotify-auth/static/js/runtime-main.b0c2f88f.js",
     "runtime-main.js.map": "/spotify-auth/static/js/runtime-main.b0c2f88f.js.map",
     "static/css/2.7c510740.chunk.css": "/spotify-auth/static/css/2.7c510740.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.7c510740.chunk.css",
     "static/js/2.6f1c0277.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.720d3d05.chunk.js"
+    "static/js/main.40395d3a.chunk.js"
   ]
 }
